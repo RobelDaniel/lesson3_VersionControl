@@ -2,19 +2,18 @@
 
 
 ## Course Title:
-Web Application Development
+LIS2360: Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(September 29, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Robel Daniel)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(For this assignment, I modified a webpage by briefly writing about topics that I learned about in this lesson and added a few images too. )
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
-
+1. (Learned how to create a GitHub account and create a remote repository.)
+2. (Learned how to push and pull a file from the repistory.)
+3. (Learned about the history of GitHub and its usefulness to programmers and future employers.)
