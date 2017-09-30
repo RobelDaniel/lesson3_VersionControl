@@ -13,6 +13,9 @@ LIS2360: Web Application Development
 ## Project Description:
 (For this assignment, I modified a webpage by briefly writing about topics that I learned about in this lesson and added a few images too. )
 
+## View Project:
+(https://robeldaniel.github.io/lesson3_VersionControl/)
+
 ## Lessons Learned in the Assignment:
 1. (Learned how to create a GitHub account and create a remote repository.)
 2. (Learned how to push and pull a file from the repistory.)
